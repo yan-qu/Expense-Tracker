@@ -1,0 +1,8 @@
+This development process guide is written based on an online blog titled How To Make An App written by Reinder de Vries at https://learnappmaking.com/how-to-make-an-app/
+
+1. Write Readme.md to clarify the main function of the application, and specify other important functions to be included.
+
+2. Using Balsamiq Mockups 3 to create rough sketches of what the application would look like in terms of the user interface
+
+3. Make the application with Xcode and Swift
+    CURRENT STATUS: learning swift with Intro to App Development with Swift by Apple

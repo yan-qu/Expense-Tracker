@@ -1,0 +1,29 @@
+Ch.2 Naming
+
+To be a better programmer, it is important to keep in mind that the program you write needs to be understandable not only for you, the programmer, but also others who are reading the program.
+
+Use the camalNamingConvention
+
+In swift, you can use emoji to name variables! 🤪
+
+let is used to declare a constant
+
+declare-initialize-use
+
+think carefully about each name you use
+
+Ch.3 String
+
+Unicode is an international standard that can represent almost any character from any language in a standard way.
+
+let welcomeString = "Hello \(firstName), welcome to \(city)"
+\(variableName) is used as a blank space holder
+
+\ backslash is an escape character to denote special punctuation/symbols used
+
+”swift files. These tell your app what to do, and when and how to do it. ​ You edit these files by typing Swift code (which should feel familiar after ​ all your practice in Swift playgrounds).
+.storyboard files. Storyboard files tell your app where to display information on the screen. Xcode opens them in a special environment called Interface Builder. You edit these by clicking, dragging, and choosing options in the utilities area.
+
+Aspect Fit for photos, which fits the image inside the view without stretching or squashing it.”
+
+Excerpt From: Apple Education. “Intro to App Development with Swift.” Apple Inc. - Education, 2017. iBooks. https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=1118575552

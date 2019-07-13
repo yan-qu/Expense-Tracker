@@ -27,3 +27,12 @@ let welcomeString = "Hello \(firstName), welcome to \(city)"
 Aspect Fit for photos, which fits the image inside the view without stretching or squashing it.”
 
 Excerpt From: Apple Education. “Intro to App Development with Swift.” Apple Inc. - Education, 2017. iBooks. https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=1118575552
+
+
+Ch.6 Functions
+
+Declare function using func
+
+Application Programming Interface, more commonly known as an API.
+
+An API is a specific set of functionality that can be used by a software developer to accomplish a task.

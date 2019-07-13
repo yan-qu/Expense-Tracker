@@ -36,3 +36,15 @@ Declare function using func
 Application Programming Interface, more commonly known as an API.
 
 An API is a specific set of functionality that can be used by a software developer to accomplish a task.
+
+Ch.7
+Let declares a constant, while val denotes a variable
+Good programming practice: if something doesn't need to be changed, always use constants to avoid mistakes.
+
+Ch.9 Types
+can annotate (clarify) the type by using the following syntax: 
+let annotatedDouble: Double = 20
+
+The names of types use UpperCamel NamingConvention
+
+can import Foundation and let today = Date() which will show current date and time

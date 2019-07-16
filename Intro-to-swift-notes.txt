@@ -48,3 +48,29 @@ let annotatedDouble: Double = 20
 The names of types use UpperCamel NamingConvention
 
 can import Foundation and let today = Date() which will show current date and time
+
+CH 10 Parameter
+
+syntax for functions with parameter
+func hello(name: String) {
+    print("Hello " + name)
+}
+
+--> for returning a value
+func spaceAvailableMessage(eachVideoDuration: Int, numberOfVideos: Int) -> String {
+    let currentSpace = 10000
+    let megabytesPerVideoSecond = 3
+    let spaceAvailable = currentSpace - eachVideoDuration * numberOfVideos * megabytesPerVideoSecond
+
+    return "If your \(numberOfVideos) videos are \(eachVideoDuration) seconds each, you'll have \(spaceAvailable) MBs remaining"
+    
+    The names you see when calling a function (and passing in one or more arguments) are called argument labels.
+
+The names used inside the function (the values that have been received) are parameter names.
+
+use a _ to denote you don't need a parameter name
+func printHelloTo(_ name: String) {
+    print("Hello " + name)
+}
+printHelloTo("Maya")
+}

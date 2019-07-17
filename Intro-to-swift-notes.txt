@@ -74,3 +74,6 @@ func printHelloTo(_ name: String) {
 }
 printHelloTo("Maya")
 }
+
+ch 12
+It’s often useful to know if a string begins with another string. The method hasPrefix() can answer this question.

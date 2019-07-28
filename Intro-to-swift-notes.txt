@@ -77,3 +77,5 @@ printHelloTo("Maya")
 
 ch 12
 It’s often useful to know if a string begins with another string. The method hasPrefix() can answer this question.
+
+Methods VS Properties: methods like functions (able to alter things, has arguments etc.) properties like a characteristic of the instance (isEmpty, getting and setting values etc.)
